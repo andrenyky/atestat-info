@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/atestat-info/static/css/main.359ce6db.chunk.css",
+    "main.js": "/atestat-info/static/js/main.cd3de807.chunk.js",
+    "main.js.map": "/atestat-info/static/js/main.cd3de807.chunk.js.map",
+    "runtime-main.js": "/atestat-info/static/js/runtime-main.630f9566.js",
+    "runtime-main.js.map": "/atestat-info/static/js/runtime-main.630f9566.js.map",
+    "static/css/2.e4346227.chunk.css": "/atestat-info/static/css/2.e4346227.chunk.css",
+    "static/js/2.e00f7cba.chunk.js": "/atestat-info/static/js/2.e00f7cba.chunk.js",
+    "static/js/2.e00f7cba.chunk.js.map": "/atestat-info/static/js/2.e00f7cba.chunk.js.map",
+    "index.html": "/atestat-info/index.html",
+    "precache-manifest.29aa16d4b42112f9fcd754f2618a4e3f.js": "/atestat-info/precache-manifest.29aa16d4b42112f9fcd754f2618a4e3f.js",
+    "service-worker.js": "/atestat-info/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/atestat-info/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.359ce6db.chunk.css.map": "/atestat-info/static/css/main.359ce6db.chunk.css.map",
+    "static/js/2.e00f7cba.chunk.js.LICENSE.txt": "/atestat-info/static/js/2.e00f7cba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.630f9566.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.e00f7cba.chunk.js",
+    "static/css/main.359ce6db.chunk.css",
+    "static/js/main.cd3de807.chunk.js"
+  ]
+}
